@@ -11,8 +11,9 @@ Notice that because versions have changed, I've changed the test framework from 
 * gem install rack
 * gem install sinatra
 * gem install json
-* gem install activerecord
-* gem install typhoeus
-* gem install pry
+* gem install activerecord (ORM from Rails)
+* gem install typhoeus (multi threaded tcp/ip package)
+* gem install pry (the REPL)
+* gem install pry-byebug (the debugger)
 
 
